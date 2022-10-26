@@ -1,8 +1,11 @@
 # Weather Dashboard
 
-## User Story
-AS A traveler I WANT to see the weather outlook for multiple cities
-SO THAT I can plan a trip accordingly.
+## Description
+
+This app is created to find out a weather by searching a city per the user/traveler input. The user will find out what's the weather in the city's current day and the 5 upcoming days. User’s city search should be saved to the local storge and be able to search again by clicking on the city name requested before.
+
+## Installation
+None
 
 ## Acceptance Criteria
 GIVEN a weather dashboard with form inputs
@@ -16,7 +19,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 
-## Mock-Up
+## Usage
 The following image shows the web application's appearance and functionality:
 
-## ScreenShot
+![Weather DashBoard - Personal - Microsoft​ Edge 10_25_2022 10_28_11 PM](https://user-images.githubusercontent.com/110436164/197934716-7ab1f9e1-5c4b-49d6-bd9a-413c74104f96.png)
